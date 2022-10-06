@@ -1,0 +1,18 @@
+var a = 10;
+var fname = "Raj Deep";
+var result1 = true;
+var info = "welcome";
+info = false;
+info = 200;
+var b = 200;
+var lname = "ravi kumar";
+var result2 = false;
+var id;
+var fullname;
+var result3;
+id = 300;
+fullname = "raj kumar";
+result3 = true;
+console.log(a);
+console.log(fullname);
+console.log(result3);
